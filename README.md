@@ -1,5 +1,7 @@
 # 자외선 지수 어플리케이션 (iOS) 
 
+- [기능 (feature) 리스트](https://github.com/ujiny/uv-plan/tree/master/feature)
+
 ## 예상 타겟층
 - 주로 야외 활동 하는 사람
 - 자외선 차단제 사용자
