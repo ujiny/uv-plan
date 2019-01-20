@@ -1,6 +1,10 @@
 # 기존 서비스 검토
 ## [자외선 차단(UVDetector)](https://itunes.apple.com/kr/app/%EC%9E%90%EC%99%B8%EC%84%A0-%EC%B0%A8%EB%8B%A8-uvdetector/id1390365852?mt=8)
 
+<p align="center">
+  <img height="300" src="https://user-images.githubusercontent.com/23302193/51437328-4d800b80-1ce0-11e9-86e2-af3840262beb.png" />
+</p>
+
 ### 홈 화면
 - 현재 위치 정보 표시
 - 정보 업데이트 시간 표시
